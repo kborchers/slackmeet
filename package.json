@@ -1,0 +1,13 @@
+{
+  "author": "slackers",
+  "name": "slackmeet",
+  "version": "0.0.0",
+  "dependencies": {
+    "socket.io": "~0.9.13"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.14",
+    "npm": "1.1.x"
+  }
+}
